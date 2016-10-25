@@ -1,0 +1,21 @@
+{
+  "name": "vue-inpage-app",
+  "version": "1.0.0",
+  "description": "vue in page app project",
+  "main": "app.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-transform-object-assign": "^6.8.0",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-runtime": "^6.11.6",
+    "install": "^0.8.1",
+    "vue": "^2.0.3",
+    "vue-loader": "^9.7.0",
+    "webpack": "^2.1.0-beta.25"
+  }
+}
